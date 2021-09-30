@@ -14946,7 +14946,7 @@ nav ul li a:hover {
 }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/slider0.jpg) no-repeat center;
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -14963,6 +14963,11 @@ nav ul li a:hover {
 
 .w3l-main-slider .banner-top2 {
   background: url(../images/slider2.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.w3l-main-slider .banner-top8 {
+  background: url(../images/banner1.jpg) no-repeat center;
   background-size: cover;
 }
 
